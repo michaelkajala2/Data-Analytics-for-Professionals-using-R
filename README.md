@@ -64,7 +64,36 @@ Participants should install the following before starting the course:
 
 ---
 
-## 📂 Repository Structure
+# ⛏️ Mining Operations Web App-PROJECT
+
+An interactive **R Shiny** dashboard for monitoring and analyzing mining operations, production metrics, and equipment efficiency.  
+The app provides real-time insights for decision-makers in the mining sector.
+
+---
+
+## 🌐 Live App
+🔗 [Launch Mining Operations Dashboard](https://miningops.shinyapps.io/MiningOpeations/)
+
+---
+
+## 📊 Key Features
+- Monitor production output by site and equipment
+- Analyze operational efficiency using KPIs
+- Visualize downtime, costs, and resource allocation
+- Export summarized reports in CSV/PDF format
+
+---
+
+## 🛠️ Built With
+- [R Shiny](https://shiny.rstudio.com/)
+- [tidyverse](https://www.tidyverse.org/)
+- [plotly](https://plotly.com/r/)
+- [shinydashboard](https://rstudio.github.io/shinydashboard/)
+- [DT](https://rstudio.github.io/DT/)
+
+---
+
+## 📁 Repository Structure
 
 
 ---
