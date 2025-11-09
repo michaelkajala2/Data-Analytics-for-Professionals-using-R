@@ -83,6 +83,14 @@ The app provides real-time insights for decision-makers in the mining sector.
 - Export summarized reports in CSV/PDF format
 
 ---
+The app can easily be adapted for **real mining datasets** once connected to operational databases or APIs.
+
+---
+
+## 🧪 Synthetic Data Used
+
+To ensure the app remains **publicly shareable** while demonstrating realistic functionality, this project uses **synthetic mining data** that mimics real operational patterns.
+
 
 ## 🛠️ Built With
 - [R Shiny](https://shiny.rstudio.com/)
