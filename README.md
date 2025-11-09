@@ -107,9 +107,13 @@ Generate reproducible reports with R Markdown
 👥 Facilitators
 
 Michael Peter,
+
 Data Science & Applied Mathematics Researcher
+
 Eng Raiton Ambele
+
 Artificial Intelligence Researcher
+
 📧 Email: michael.peter@out.ac.tz & raiton.ambele@out.ac.tz
 
 Alt.  📧Email: mkajala@aims.ac.tz
